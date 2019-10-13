@@ -2,12 +2,11 @@
 we will learn about how to minimize the cost function of Linear Regression model <i>Cost(W,b)</i>
 ***
 
-​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03funcsimplify.PNG" style="zoom:40%;"/> 
+​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03costfunc.png" style="zoom:40%;"/> 
 
 ### 1) Condition Precedent
 > <b>Convex Function</b>
-​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03convexfuncL.png" style="zoom:40%;"/> 
-​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03convexfuncR.png" style="zoom:40%;"/> 
+​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03convexfunc.PNG" style="zoom:40%;"/> 
 We have to check if cost function is in convex figure.
 At cost function like left side, we cannot check minimum point of function by gradient descent. 
 So the function have to be in figure like right side.
