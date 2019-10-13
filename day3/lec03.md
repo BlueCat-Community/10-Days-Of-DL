@@ -10,6 +10,7 @@ At cost function like left side, we cannot check minimum point of function by gr
 So the function have to be in figure like right side.
 
 > <b>Convex Graph</b>
+
 > To minimize the cost function, we want to know  which point(W,b) can minimize the cost function.
 > We will simplify the Hypothesis Hx for concentrating on W value of it.
 ​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03funcsimplify.PNG" style="zoom:40%;"/> 
