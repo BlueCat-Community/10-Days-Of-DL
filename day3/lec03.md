@@ -6,18 +6,15 @@ we will learn about how to minimize the cost function of Linear Regression model
 
 ### 1) Condition Precedent
 > <b>Convex Function</b>
-​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03convexfuncL.png
-" style="zoom:40%;"/> 
-​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03convexfuncR.png
-" style="zoom:40%;"/> 
+​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03convexfuncL.png" style="zoom:40%;"/> 
+​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03convexfuncR.png" style="zoom:40%;"/> 
 We have to check if cost function is in convex figure.
 At cost function like left side, we cannot check minimum point of function by gradient descent. 
 So the function have to be in figure like right side.
 
 > <b>Convex Graph</b>
 
-​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03convexgraph.PNG
-" style="zoom:40%;"/> 
+​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03convexgraph.PNG" style="zoom:40%;"/> 
 To minimize the cost function, we want to know  which point(W,b) can minimize the cost function.
 We will simplify the Hypothesis Hx for concentrating on W value of it.
 ​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03funcsimplify.PNG" style="zoom:40%;"/> 
@@ -25,13 +22,11 @@ We will simplify the Hypothesis Hx for concentrating on W value of it.
 ---
 ### 2) Gradient Descent
 
-​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03costGradientMinimize.png
-" style="zoom:40%;"/> 
+​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03costGradientMinimize.png" style="zoom:40%;"/> 
 ---
 ### 3) Differentiation(미분)
 
-​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03formalW.png
-" style="zoom:40%;"/> 
+​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03formalW.png" style="zoom:40%;"/> 
 
 This is a method of progressing learning <u>_without a label for data_</u>.
 
