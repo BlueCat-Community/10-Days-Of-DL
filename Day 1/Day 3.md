@@ -12,15 +12,13 @@ To optimize <b>Linear Regression</b>, <b>Cost</b> must have a minimum value. Tha
 
 We used a hypothesis above. But to simplify the equation, we will change the hypothesis formula a bit.
 
-<img src="img\ch_hy.png" alt="chhy" style="zoom:48%;" />
+<img src="https://user-images.githubusercontent.com/32675267/66719086-437dda00-ee26-11e9-9726-3fd9633063f3.png" alt="ch_hy" style="zoom:48%;" />
 
-<img src="img\ch_hy2.png" alt="ch2" style="zoom:50%;" />
-
-
+<img src="https://user-images.githubusercontent.com/32675267/66719092-509ac900-ee26-11e9-8a64-84f9ec433b6c.png" alt="ch_hy2" style="zoom:48%;" />
 
 We can see this <b>Cost Function</b> with graph.
 
-<img src="img\min.PNG" alt="min" style="zoom:48%;" />
+<img src="https://user-images.githubusercontent.com/32675267/66719099-5f817b80-ee26-11e9-9f90-367dfff673c0.PNG" alt="min" style="zoom:48%;" />
 
 
 
@@ -39,9 +37,8 @@ We can see this <b>Cost Function</b> with graph.
 >
 > * The formula below shows Gradient Descent Algorithm.
 >
->   <img src="img\gd.png" alt="GD" style="zoom:75%;" />
+>   <img src="https://user-images.githubusercontent.com/32675267/66719107-6d370100-ee26-11e9-85aa-5cd867f65f40.png" alt="gd" style="zoom:75%;" />
 
 
 
-<img src="img\fin.png" alt="fin" style="zoom:48%;" />
-
+<img src="https://user-images.githubusercontent.com/32675267/66719115-7a53f000-ee26-11e9-9cd8-c3138113229e.png" alt="fin" style="zoom:48%;" />

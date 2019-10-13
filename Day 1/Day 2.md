@@ -18,7 +18,7 @@ Because <b>regression</b> is a way of learning from data, we need to define a <i
 
 
 
-<img src="img\hypothesis.png" alt="Hypothesis" style="zoom:60%;" />
+<img src="https://user-images.githubusercontent.com/32675267/66719065-07e31000-ee26-11e9-91e5-4b83c97b7b0b.png" alt="hypothesis" style="zoom:60%;" />
 
 > When input <b>x value</b> to this hypothesis then we can gain <b>predicted  y value</b>.
 
@@ -36,10 +36,10 @@ This formula means, find and square the difference between the predicted and act
 
 <b>Cost</b> is the average of the above values.  <b>Cost</b> can be expressed as a formula.
 
-<img src="img\cost1.png" alt="Cost1" style="zoom:75%;" />
+<img src="https://user-images.githubusercontent.com/32675267/66719072-20532a80-ee26-11e9-8f6b-5ded8d374c47.png" alt="cost1" style="zoom:75%;" />
 
 <i>H(x)</i> equal with <i>Wx + b</i>. So, it is same with below formula.
 
-<img src="img\cost2.png" alt="cost2" style="zoom:75%;" />
+<img src="https://user-images.githubusercontent.com/32675267/66719078-2cd78300-ee26-11e9-8fa9-2666420837e1.png" alt="cost2" style="zoom:75%;" />
 
 ##### TO optimize Linear Regression, the cost value should be minimum.

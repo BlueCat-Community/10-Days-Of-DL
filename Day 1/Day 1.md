@@ -10,7 +10,7 @@
 
 
 
-<img src="img\machine.png" alt="Machine Learning" style="zoom:40%;" />
+​							<img src="https://user-images.githubusercontent.com/32675267/66719022-82f7f680-ee25-11e9-92db-9a99aec2538f.png" style="zoom:40%;"/> 
 
 
 
@@ -26,7 +26,7 @@ This is a method of progressing learning <u>_with labeled data_</u>.
 
 
 
-<img src="img\supervised.png" alt="Supervised" style="zoom:40%;" />
+​							<img src="https://user-images.githubusercontent.com/32675267/66719049-c488a180-ee25-11e9-96eb-36af7db2ac23.png" alt="supervised" style="zoom:40%;" />
 
 ​	
 
