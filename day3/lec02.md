@@ -20,4 +20,5 @@ We educate model to minimize cost at each iteration.
 ### 4) Goal
 
 Our goal is to find the W(slope) and b value, which minimize the cost function.
+
 ​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec03costfunc.png" style="zoom:40%;"/> 
