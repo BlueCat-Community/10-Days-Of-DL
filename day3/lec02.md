@@ -8,6 +8,7 @@ To predict data tend to be linear equation.
 ### 2) Hypothesis
 
 Linear equation used in Linear Regression. Hypothesis H(x) is repeatedly modified by iteration of model. We use final ‘educated’ Hypothesis to predict test dataset.
+
 ​							<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day3/images/lec02costfunction.png" style="zoom:40%;"/>
 
 ### 3) Cost Function
