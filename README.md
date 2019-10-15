@@ -7,7 +7,9 @@
 
 <img src ="https://user-images.githubusercontent.com/52238766/66801842-812d5080-ef55-11e9-916e-cedae5128efe.png">
 
-## Requirements
+
+
+## :point_right: Requirements
 
 - python 3.6
 - tensorflow 2.0 (https://www.tensorflow.org)
@@ -16,9 +18,9 @@
 - Anaconda(https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
 - Jupyter Notebook
 
-<br>
 
-## Install
+
+## :computer: Install
 
 See the [TensorFlow install guide](https://www.tensorflow.org/install) for the
 [pip package](https://www.tensorflow.org/install/pip), to
@@ -62,15 +64,36 @@ $ python
 For more examples, see the
 [TensorFlow tutorials](https://www.tensorflow.org/tutorials/).
 
-<br>
 
-## Course
+
+## 📖 Course
 ### Day1 [Machine Learning]
 
 1) [tensorflow install]
 
 
-## License
+
+## :page_facing_up: Resources
+
+*   [TensorFlow.org](https://www.tensorflow.org)
+*   [TensorFlow tutorials](https://www.tensorflow.org/tutorials/)
+*   [TensorFlow official models](https://github.com/tensorflow/models/tree/master/official)
+*   [TensorFlow examples](https://github.com/tensorflow/examples)
+*   [TensorFlow in Practice from Coursera](https://www.coursera.org/specializations/tensorflow-in-practice)
+*   [TensorFlow blog](https://blog.tensorflow.org)
+*   [TensorFlow Twitter](https://twitter.com/tensorflow)
+*   [TensorFlow YouTube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
+*   [TensorFlow roadmap](https://www.tensorflow.org/community/roadmap)
+*   [TensorFlow white papers](https://www.tensorflow.org/about/bib)
+*   [TensorBoard visualization toolkit](https://github.com/tensorflow/tensorboard)
+
+Learn more about the
+[TensorFlow community](https://www.tensorflow.org/community) and how to
+[contribute](https://www.tensorflow.org/community/contribute).
+
+
+
+## ©️ License
 ```
  Copyright 2019 Team Daliy_Learning in BlueCat-Community
 
