@@ -73,7 +73,7 @@ For more examples, see the
 
 
 
-## :page_facing_up: Resources
+## :books: Resources
 
 *   [TensorFlow.org](https://www.tensorflow.org)
 *   [TensorFlow tutorials](https://www.tensorflow.org/tutorials/)
