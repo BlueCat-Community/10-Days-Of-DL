@@ -43,3 +43,8 @@ This formula means, find and square the difference between the predicted and act
 <img src="https://user-images.githubusercontent.com/32675267/66719078-2cd78300-ee26-11e9-8fa9-2666420837e1.png" alt="cost2" style="zoom:75%;" />
 
 ##### TO optimize Linear Regression, the cost value should be minimum.
+
+<b>Our goal is to find the W(slope) and b value, which minimize the cost function.</b>
+
+
+

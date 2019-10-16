@@ -6,6 +6,26 @@
 
 ---
 
+<b>1) Condition Precedent</b>
+
+> <b>Convex Function</b>
+> 							<img width="298" alt="lec03_1" src="https://user-images.githubusercontent.com/32675267/66925591-998d9000-f067-11e9-850c-afa4b9e2bbc0.PNG">
+> We have to check if cost function is in convex figure.
+> At cost function like left side, we cannot check minimum point of function by gradient descent. 
+> So the function have to be in figure like right side.
+
+> <b>Convex Graph</b>
+
+> To minimize the cost function, we want to know  which point(W,b) can minimize the cost function.
+> We will simplify the Hypothesis Hx for concentrating on W value of it.
+> 							<img width="255" alt="lec03_2" src="https://user-images.githubusercontent.com/32675267/66925643-aca06000-f067-11e9-9a41-254429f94427.PNG">
+
+
+
+---
+
+
+
 To optimize <b>Linear Regression</b>, <b>Cost</b> must have a minimum value. That's why we need to find a case where cost is the minimum. In this case, we use a cost minimization algorithm. A typical example of which is <b>Gradient Descent Algorithm</b>.
 
 
@@ -24,7 +44,7 @@ We can see this <b>Cost Function</b> with graph.
 
 
 
-<b>1) Gradient Descent Algorithm</b>
+<b>2) Gradient Descent Algorithm</b>
 
 <b>Gradient Descent Algorithm</b> finds the minimum value by descending along the slope of the graph.
 
@@ -42,11 +62,11 @@ We can see this <b>Cost Function</b> with graph.
 > * a : Learning rate 
 >
 >     - How much will it go down
->     
+>    
 >     - Big learning rate: no converge
->     
+>    
 >     - Small learning rate : Find minimum but too slow
->     
+>    
 >
 > ![learning rate](https://user-images.githubusercontent.com/44569994/66711199-58c11d00-edc2-11e9-9fd7-6ff5fbf4b11c.png)
 
