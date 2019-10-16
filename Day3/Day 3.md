@@ -37,7 +37,18 @@ We can see this <b>Cost Function</b> with graph.
 >
 > * The formula below shows Gradient Descent Algorithm.
 >
->   <img src="https://user-images.githubusercontent.com/32675267/66719107-6d370100-ee26-11e9-85aa-5cd867f65f40.png" alt="gd" style="zoom:75%;" />
+> <img src="https://user-images.githubusercontent.com/32675267/66719107-6d370100-ee26-11e9-85aa-5cd867f65f40.png" alt="gd" style="zoom:75%;" />
+>
+> * a : Learning rate 
+>
+>     - How much will it go down
+>     
+>     - Big learning rate: no converge
+>     
+>     - Small learning rate : Find minimum but too slow
+>     
+>
+> ![learning rate](https://user-images.githubusercontent.com/44569994/66711199-58c11d00-edc2-11e9-9fd7-6ff5fbf4b11c.png)
 
 
 
