@@ -1,14 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import tensorflow as tf
-
-
-# In[2]:
-
 
 """
 Lab1 basic 
@@ -29,4 +19,3 @@ def add(x,y):
     return x+y
 
 print(add(tf.Variable(3),node2))
-
