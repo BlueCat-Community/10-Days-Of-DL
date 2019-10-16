@@ -73,3 +73,6 @@ We can see this <b>Cost Function</b> with graph.
 
 
 <img src="https://user-images.githubusercontent.com/32675267/66719115-7a53f000-ee26-11e9-9cd8-c3138113229e.png" alt="fin" style="zoom:48%;" />
+
+
+<b><i>In python code, we use loss instead cost.</i></b>
