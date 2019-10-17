@@ -9,7 +9,7 @@
 <b>1) Condition Precedent</b>
 
 > <b>Convex Function</b>
-> 							<img width="298" alt="lec03_1" src="https://user-images.githubusercontent.com/32675267/66925591-998d9000-f067-11e9-850c-afa4b9e2bbc0.PNG">
+> <img width="298" alt="lec03_1" src="https://user-images.githubusercontent.com/32675267/66925591-998d9000-f067-11e9-850c-afa4b9e2bbc0.PNG"><br>
 > We have to check if cost function is in convex figure.
 > At cost function like left side, we cannot check minimum point of function by gradient descent. 
 > So the function have to be in figure like right side.
@@ -17,8 +17,8 @@
 > <b>Convex Graph</b>
 
 > To minimize the cost function, we want to know  which point(W,b) can minimize the cost function.
-> We will simplify the Hypothesis Hx for concentrating on W value of it.
-> 							<img width="255" alt="lec03_2" src="https://user-images.githubusercontent.com/32675267/66925643-aca06000-f067-11e9-9a41-254429f94427.PNG">
+> We will simplify the Hypothesis Hx for concentrating on W value of it.<br>
+> <img width="255" alt="lec03_2" src="https://user-images.githubusercontent.com/32675267/66925643-aca06000-f067-11e9-9a41-254429f94427.PNG">
 
 
 
@@ -73,3 +73,6 @@ We can see this <b>Cost Function</b> with graph.
 
 
 <img src="https://user-images.githubusercontent.com/32675267/66719115-7a53f000-ee26-11e9-9cd8-c3138113229e.png" alt="fin" style="zoom:48%;" />
+
+<br><br>
+<b><i>In python code, we use loss instead cost.</i></b>
