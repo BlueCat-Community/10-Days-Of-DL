@@ -14,7 +14,7 @@ node3=node1+node2
 
 print(node3)
 
-@tf.function # session 대신 사용
+@tf.function # Use instead of Session()
 def add(x,y):
     return x+y
 
