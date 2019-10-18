@@ -40,7 +40,7 @@ The size of X and H(X) is given, and the nature of this dot product shows that W
 #### Lab
 
 Matrix X's rows are: **instances**  
-We can use n instances in the matrix.
+We can use n instances in the matrix.  
 so, we use n, -1, None to illustrate that there can be any number of instances in X  
 > ex) [n, 3]  
   
@@ -50,10 +50,18 @@ the result matrix is [a, d]
 and b must be the same value as c in order to conduct multiplication
   
 **Slicing**  
-list[x:y] -> get the elements of the list, from index x to y-1.  
-empty x or y means -> all of the elements
+`list[x:y]` -> get the elements of the list, from index x to y-1.  
+empty x or y means -> all of the elements  
 negative elements means -> to the inverse index of elements
-![](https://user-images.githubusercontent.com/43871679/66986482-fcc80280-f0f9-11e9-9e2c-0e77b3f1e917.png)
+```python
+nums = range(5)
+print(nums)         # prints [0, 1, 2, 3, 4]
+print(nums[2:4])    # prints [2, 3]
+print(nums[2:])     # prints [2, 3, 4]
+print(nums[:2])     # prints [0, 1]
+print(nums[:])      # prints [0, 1, 2, 3, 4]
+print(nums[:-1])    # prints [0, 1, 2, 3]
+```
   
 **Reference**
 [https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
