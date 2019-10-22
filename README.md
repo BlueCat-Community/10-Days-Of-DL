@@ -67,9 +67,13 @@ For more examples, see the
 
 
 ## 📖 Course
-### Day1 [Machine Learning]
+#### Day1: [Machine Learning 기본](https://github.com/BlueCat-Community/10-Days-Of-DL/tree/master/Day1)
 
-1) [tensorflow install]
+
+#### Day2: [Linear Regression hypothesis & cost](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day2/Day%202.md)
+
+
+#### Day3: [Linear Regression cost 최적화 알고리즘](https://github.com/BlueCat-Community/10-Days-Of-DL/tree/master/Day3)
 
 
 
