@@ -71,3 +71,5 @@ pred = model.predict(X_test)
 
 print('np.argmax(pred[0]) = ', np.argmax(pred[0]))
 print('np.argmax(pred[1]) = ', np.argmax(pred[1]))
+
+# reference >> https://www.youtube.com/watch?v=nVvhkVLh60o
