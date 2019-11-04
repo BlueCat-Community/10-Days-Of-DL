@@ -76,6 +76,11 @@ For more examples, see the
 #### Day3: [Linear Regression cost 최적화 알고리즘](https://github.com/BlueCat-Community/10-Days-Of-DL/tree/master/Day3)
 
 
+#### Day4: [Multi-variable Linear regression](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day4/Day%204.md)
+
+
+#### Day5: [Logistic Classification & cost function](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day5/Day%205.md)
+
 
 ## :books: Resources
 
