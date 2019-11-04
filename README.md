@@ -67,19 +67,45 @@ For more examples, see the
 
 
 ## 📖 Course
-#### Day1: [Machine Learning 기본](https://github.com/BlueCat-Community/10-Days-Of-DL/tree/master/Day1)
+#### Day1: Machine Learning 기본
+*   [Theory](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day1/Day%201.md)
+*   [Code](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day1/Lab01.ipynb)
 
 
-#### Day2: [Linear Regression hypothesis & cost](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day2/Day%202.md)
+
+#### Day2: Linear Regression hypothesis & cost
+*   [Theory](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day2/Day%202.md)
 
 
-#### Day3: [Linear Regression cost 최적화 알고리즘](https://github.com/BlueCat-Community/10-Days-Of-DL/tree/master/Day3)
+
+#### Day3: Linear Regression cost 최적화 알고리즘
+*   [Theory](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day3/Day%203.md)
+*   [Linear regression Code](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day3/linear%20regression.ipynb)
 
 
-#### Day4: [Multi-variable Linear regression](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day4/Day%204.md)
+
+#### Day4: Multi-variable Linear regression
+*   [Theory](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day4/Day%204.md)
+*   [Multi-variable Linear regression Code](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day4/Day%204_practice.ipynb)
 
 
-#### Day5: [Logistic Classification & cost function](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day5/Day%205.md)
+
+#### Day5: Logistic Classification & cost function
+*   [Theory](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day5/Day%205.md)
+*   [Logistic Classification Code](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day5/Day%205_practice.ipynb)
+
+
+
+#### Day6: Softmax regression & cost function
+*   [Theory](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day6/SoftMax%20Regression.md)
+*   [Softmax regression Code](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day6/SoftmaxAndCostfunction.ipynb)
+
+
+
+#### Day7: Rate, Overfitting, Regularization, training & test
+*   [Theory 1](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day7/Rate_overfitting_regularization.md)
+*   [Theory 2](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day7/Training%26TrainingDataSet.md)
+*   [Training & Evaluationn Code](https://github.com/BlueCat-Community/10-Days-Of-DL/blob/master/Day5/Day%205_practice.ipynb)
 
 
 ## :books: Resources
