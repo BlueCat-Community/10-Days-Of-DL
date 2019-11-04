@@ -86,3 +86,8 @@ And now, the technology has been developed to describe the image, not just to fi
 
 
 
+### 3. Reference
+
+***
+
+https://www.youtube.com/watch?v=n7DNueHGkqE&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=23&t=0s
