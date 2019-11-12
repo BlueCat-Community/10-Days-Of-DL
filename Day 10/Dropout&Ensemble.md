@@ -11,7 +11,7 @@ One of solution is <b>dropout</b>.
 
 <b>Dropout</b> is a regularization techique for reducing overfitting in neural networks by preventing complex co-adaptations on training data. It is a very efficient way of performing model averaging with neural networks. The term "dropout" refers to dropping out units (both hidden and visible) in a neural network.
 
-![image.png](attachment:image.png)
+![](https://miro.medium.com/proxy/1*iWQzxhVlvadk6VAJjsgXgg.png)
 
 Inherently fully connected, the interrelationships between nodes are quite complex. But if you don't go through all the nodes through dropout, you get a sparse network as shown on the right.
 
@@ -23,7 +23,7 @@ In TensorFlow,
 ## 5.Ensemble
 ***
 
-![image.png](attachment:image.png)
+![](https://i.pinimg.com/originals/4b/83/e4/4b83e452f1dfbfbade8b8c5a58256f02.jpg)
 
 If you have a lot of data and a lot of computers, you can use the <b>ensemble method</b>. By dividing the data into several training sets and learning at the same time, after the training for all the training set is a method of integrating the results.
 
