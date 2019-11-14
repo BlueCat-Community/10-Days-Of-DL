@@ -1,10 +1,8 @@
 # DAY 10
 
+
 ***
-
-
 ## 1.Sigmoid 
-
 ***
 
  ![img](https://t1.daumcdn.net/cfile/tistory/99B9A3335981FCAC0F) 
@@ -40,7 +38,7 @@
 ※ vanishing problem : The more hierarchies, the more difficult it is to learn. 
 
 
-
+***
 ## 2.reLU
 ***
 
@@ -70,9 +68,8 @@
 
 
 
-
+***
 ## 3.Weight
-
 ***
 
 
@@ -141,7 +138,7 @@
 **Previous research achieved high performance**
 **But there are more possibility to develop higher performance algorithm than the previous**
 
-
+***
 ## 4.Dropout
 ***
 
@@ -162,6 +159,7 @@ In TensorFlow,
 * Set the dropout rate at the time of learning(almost 0.5).
 * When it is time to evaluate, set the dropout rate to 1 so that all nodes do not rest.
 
+***
 ## 5.Ensemble
 ***
 
@@ -171,6 +169,7 @@ If you have a lot of data and a lot of computers, you can use the <b>ensemble me
 
 <b>Ensemble</b> seems to be a legitimate way to get advice from several experts at the same time. Using this method improves performance by at least 2% to 4-5%. It is similar to dropout in that it produces balanced results over several attempts.
 
+***
 ### Reference
 ***
 [ko]https://www.youtube.com/watch?v=wTxMsp22llc&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=33&t=0s
