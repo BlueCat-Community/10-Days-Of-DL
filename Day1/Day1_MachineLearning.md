@@ -30,31 +30,25 @@ This is a method of progressing learning <u>_with labeled data_</u>.
 
 ​	
 
-> <b>Regression</b>
->
-> It is a way of predicting <u>continuous valued</u>. 
->
-> <i>Ex) To predict student's test scores.</i>
++ <b>Regression</b>
+It is a way of predicting <u>continuous valued</u>. 
+<i>Ex) To predict student's test scores.</i>
+<br>
 
++ <b>Classification</b>
+It it a way of predicting <u>categorical valued</u>.
+<br>
 
+    + <b>Binary Classification</b>
+Category is only two, for example (yes / no) or (1 / 0).
+<i>Ex) To predict student's pass of fail.</i>
+  
 
-> <b>Classification</b>
->
-> It it a way of predicting <u>categorical valued</u>.
->
-> > <b>Binary Classification</b>
-> >
-> > Category is only two, for example (yes / no) or (1 / 0).
-> >
-> > <i>Ex) To predict student's pass of fail.</i>
->
-> > <b>Multi-Class Classification</b>
-> >
-> > It has many category, for example (Small / Medium / Large).
-> >
-> > <i>Ex) To predict student's grade, for example (A / B / C / D/ F).</i>
+    + <b>Multi-Class Classification</b>
+It has many category, for example (Small / Medium / Large).
+<i>Ex) To predict student's grade, for example (A / B / C / D/ F).</i>
 
-
+<br><br>
 
 ##### 2) Unsupervised Learning
 
@@ -62,8 +56,5 @@ This is a method of progressing learning <u>_without a label for data_</u>.
 
 It is often used to discover hidden features or structures of data.
 
-
-
-> <b>Clustering</b>
->
-> This is a method of grouping data with similar characteristics.
+- <b>Clustering</b>
+This is a method of grouping data with similar characteristics.
